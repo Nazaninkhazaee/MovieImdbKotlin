@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Imdb Kotlin</string>
+    <string name="imdb">IMDB</string>
+    <string name="connection_problem">Connection Problem!</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="search_movies">Search movies</string>
+    <string name="error_message_server">There was a problem connecting to the server. Please try again</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="rating">Imdb Rating: </string>
+    <string name="runtime">Runtime: </string>
+    <string name="description">Description: </string>
+    <string name="favorite_movies_empty">Favorite list movies is empty!</string>
+    <string name="ok">OK</string>
+    <string name="movie_not_found">Movie not found!</string>
+    <string name="your_favorite_films">Your favorite films</string>
+</resources>
